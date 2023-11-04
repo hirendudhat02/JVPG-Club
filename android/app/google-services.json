@@ -1,0 +1,100 @@
+{
+  "project_info": {
+    "project_number": "173917337852",
+    "project_id": "ottersclub-4d200",
+    "storage_bucket": "ottersclub-4d200.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173917337852:android:7bde5bfd27b71a0836ff79",
+        "android_client_info": {
+          "package_name": "com.otters"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173917337852-fqlhcqdci70637c49kj7q4oqsuohcse5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.otters",
+            "certificate_hash": "f8c6ac53d6c30fba33cf2685d270972988ad390b"
+          }
+        },
+        {
+          "client_id": "173917337852-e9ifb8safeu8elksn0e8e5e4f7p3g3hp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdgZv4nNAXDsxM4tZzqDpdGjet1DNTnuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173917337852-e9ifb8safeu8elksn0e8e5e4f7p3g3hp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "173917337852-3rblhl554jut7kchnhcmjee17golivkb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.otters",
+                "app_store_id": "123456"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173917337852:android:ac1ce85c3781dba136ff79",
+        "android_client_info": {
+          "package_name": "com.jvpg.jvpgclub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173917337852-ko7bp3r2enbu91h590c4q72rk258f6np.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jvpg.jvpgclub",
+            "certificate_hash": "f8c6ac53d6c30fba33cf2685d270972988ad390b"
+          }
+        },
+        {
+          "client_id": "173917337852-e9ifb8safeu8elksn0e8e5e4f7p3g3hp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdgZv4nNAXDsxM4tZzqDpdGjet1DNTnuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173917337852-e9ifb8safeu8elksn0e8e5e4f7p3g3hp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "173917337852-3rblhl554jut7kchnhcmjee17golivkb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.otters",
+                "app_store_id": "123456"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

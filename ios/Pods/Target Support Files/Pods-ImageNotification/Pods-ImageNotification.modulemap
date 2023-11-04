@@ -1,0 +1,6 @@
+module Pods_ImageNotification {
+  umbrella header "Pods-ImageNotification-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.jvpg.jvpgclub.app-mergeDebugResources-43:/values-v29/values-v29.xml",
+            "map": [
+                {
+                    "source": "/Users/siddharth/Desktop/jvpgapp/android/app/src/main/res/values-v29/styles.xml",
+                    "from": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "598",
+                        "endLines": "20",
+                        "endColumns": "12",
+                        "endOffsets": "1078"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "10",
+                        "endColumns": "12",
+                        "endOffsets": "339"
+                    }
+                }
+            ]
+        }
+    ]
+}

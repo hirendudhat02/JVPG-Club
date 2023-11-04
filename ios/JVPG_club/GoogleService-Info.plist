@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>173917337852-jid3jn9p9css15u7fs5l059utsclbh3b.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.173917337852-jid3jn9p9css15u7fs5l059utsclbh3b</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>173917337852-fqlhcqdci70637c49kj7q4oqsuohcse5.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBvSUn4rZ8mQR2RYskReEC5kwoS2fPX7tA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>173917337852</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.jvpg.jvpgclub</string>
+	<key>PROJECT_ID</key>
+	<string>ottersclub-4d200</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ottersclub-4d200.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:173917337852:ios:8309d6824b0164ef36ff79</string>
+</dict>
+</plist>

@@ -1,0 +1,494 @@
+[
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_icons_bookallowed.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_icons_bookallowed.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-xxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-xxhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.jvpg.jvpgclub.app-main-45:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable_appl.png.flat",
+        "source": "com.jvpg.jvpgclub.app-main-45:/drawable/appl.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_icons_eyes.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_icons_eyes.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_onboarding_onboarding3.jpg.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_onboarding_onboarding3.jpg"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-xxhdpi_src_component_reactnativecalendars_src_img_down.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-xxhdpi/src_component_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_icons_subtract.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_icons_subtract.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_icons_billing_hover.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_icons_billing_hover.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_banquet_availibility.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_banquet_availibility.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-xxxhdpi_src_component_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-xxxhdpi/src_component_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_icons_downarrow.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_icons_downarrow.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_icons_notification.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_icons_notification.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_icons_back_arrow_white.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_icons_back_arrow_white.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_icons_arrow.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_icons_arrow.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_banquet_banquethall1.jpeg.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_banquet_banquethall1.jpeg"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.jvpg.jvpgclub.app-main-45:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_icons_man.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_icons_man.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_icons_camera.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_icons_camera.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-xxhdpi_src_component_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-xxhdpi/src_component_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/xml_data_extraction_rules.xml.flat",
+        "source": "com.jvpg.jvpgclub.app-main-45:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-xhdpi_src_component_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-xhdpi/src_component_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_icons_qr_code.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_icons_qr_code.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_icons_search_icon.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_icons_search_icon.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_banquet_capacity.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_banquet_capacity.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-hdpi_src_component_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-hdpi/src_component_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_icons_event_fill.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_icons_event_fill.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_icons_rupee.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_icons_rupee.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-xxhdpi_src_component_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-xxhdpi/src_component_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_icons_plus.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_icons_plus.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.jvpg.jvpgclub.app-main-45:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_book_massageimg.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_book_massageimg.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_icons_member.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_icons_member.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_icons_minus.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_icons_minus.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_icons_wishlist.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_icons_wishlist.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.jvpg.jvpgclub.app-main-45:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-xxhdpi_src_component_reactnativecalendars_src_img_up.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-xxhdpi/src_component_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_icons_openbook.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_icons_openbook.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_icons_available.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_icons_available.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-xxxhdpi_src_component_reactnativecalendars_src_img_down.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-xxxhdpi/src_component_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_icons_time.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_icons_time.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.jvpg.jvpgclub.app-main-45:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-xxxhdpi_src_component_reactnativecalendars_src_img_up.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-xxxhdpi/src_component_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/layout_launch_screen.xml.flat",
+        "source": "com.jvpg.jvpgclub.app-main-45:/layout/launch_screen.xml"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_icons_down_arrow.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_icons_down_arrow.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_icons_book_hover.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_icons_book_hover.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_icons_billing.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_icons_billing.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-xhdpi_src_component_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-xhdpi/src_component_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.jvpg.jvpgclub.app-main-45:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.jvpg.jvpgclub.app-main-45:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_book_lawntennis.webp.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_book_lawntennis.webp"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_icons_close_button.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_icons_close_button.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_onboarding_onboarding1.jpg.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_onboarding_onboarding1.jpg"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_icons_refresh.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_icons_refresh.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_icons_pastbooking.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_icons_pastbooking.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.jvpg.jvpgclub.app-main-45:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_banquet_banquethall2.jpeg.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_banquet_banquethall2.jpeg"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-xhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-xhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_book_badminton.jpeg.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_book_badminton.jpeg"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_icons_morebuttonwhit.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_icons_morebuttonwhit.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_icons_day_date.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_icons_day_date.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_icons_updatedetail.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_icons_updatedetail.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_src_component_reactnativecalendars_src_img_down.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/src_component_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_src_component_reactnativecalendars_src_img_up.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/src_component_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_icons_coupon_back.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_icons_coupon_back.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_icons_view.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_icons_view.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.jvpg.jvpgclub.app-main-45:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_icons_updates_hover.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_icons_updates_hover.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-hdpi_src_component_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-hdpi/src_component_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable_applogo.png.flat",
+        "source": "com.jvpg.jvpgclub.app-main-45:/drawable/applogo.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_icons_folder.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_icons_folder.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_icons_homehover.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_icons_homehover.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_icons_witness.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_icons_witness.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.jvpg.jvpgclub.app-main-45:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_book_banquet.jpeg.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_book_banquet.jpeg"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_book_squashimg.jpeg.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_book_squashimg.jpeg"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-xhdpi_src_component_reactnativecalendars_src_img_down.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-xhdpi/src_component_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.jvpg.jvpgclub.app-main-45:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_icons_add.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_icons_add.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_icons_makepaymen.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_icons_makepaymen.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-xhdpi_src_component_reactnativecalendars_src_img_up.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-xhdpi/src_component_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_icons_logo.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_icons_logo.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.jvpg.jvpgclub.app-main-45:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_icons_blank_box.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_icons_blank_box.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.jvpg.jvpgclub.app-main-45:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.jvpg.jvpgclub.app-main-45:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_icons_location.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_icons_location.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-hdpi_src_component_reactnativecalendars_src_img_down.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-hdpi/src_component_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_icons_next_arrow.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_icons_next_arrow.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-hdpi_src_component_reactnativecalendars_src_img_up.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-hdpi/src_component_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_icons_alerts.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_icons_alerts.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_icons_home.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_icons_home.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_onboarding_onboarding2.jpg.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_onboarding_onboarding2.jpg"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_icons_checkbox.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_icons_checkbox.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_icons_mybooking.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_icons_mybooking.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_icons_applogo.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_icons_applogo.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_icons_edit_blue.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_icons_edit_blue.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_banquet_cost.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_banquet_cost.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_icons_successful.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_icons_successful.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.jvpg.jvpgclub.app-main-45:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-xxxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-xxxhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_banquet_banquethall4.jpeg.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_banquet_banquethall4.jpeg"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_icons_unbilled_amount.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_icons_unbilled_amount.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_book_event_image.jpeg.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_book_event_image.jpeg"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_icons_qr_codehover.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_icons_qr_codehover.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.jvpg.jvpgclub.app-main-45:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-xxxhdpi_src_component_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-xxxhdpi/src_component_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.jvpg.jvpgclub.app-main-45:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_icons_book.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_icons_book.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_banquet_banquethall3.jpeg.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_banquet_banquethall3.jpeg"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable_logo.png.flat",
+        "source": "com.jvpg.jvpgclub.app-main-45:/drawable/logo.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_icons_changepasword.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_icons_changepasword.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-hdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-hdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.jvpg.jvpgclub.app-main-45:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_icons_logout.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_icons_logout.png"
+    },
+    {
+        "merged": "com.jvpg.jvpgclub.app-merged_res-44:/drawable-mdpi_assets_icons_past_bill.png.flat",
+        "source": "com.jvpg.jvpgclub.app-react-39:/drawable-mdpi/assets_icons_past_bill.png"
+    }
+]

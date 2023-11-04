@@ -1,0 +1,6 @@
+module Pods_JVPG_club_JVPG_clubTests {
+  umbrella header "Pods-JVPG_club-JVPG_clubTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

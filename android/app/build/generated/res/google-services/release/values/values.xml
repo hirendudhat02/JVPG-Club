@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">173917337852-e9ifb8safeu8elksn0e8e5e4f7p3g3hp.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">173917337852</string>
+    <string name="google_api_key" translatable="false">AIzaSyDdgZv4nNAXDsxM4tZzqDpdGjet1DNTnuA</string>
+    <string name="google_app_id" translatable="false">1:173917337852:android:ac1ce85c3781dba136ff79</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDdgZv4nNAXDsxM4tZzqDpdGjet1DNTnuA</string>
+    <string name="google_storage_bucket" translatable="false">ottersclub-4d200.appspot.com</string>
+    <string name="project_id" translatable="false">ottersclub-4d200</string>
+</resources>

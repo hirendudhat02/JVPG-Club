@@ -1,0 +1,16 @@
+export const KEY = {
+    INTRO: "Intro",
+    LOGIN_DATA: "loginData",
+    DROP_DOWN_DATA: "response123",
+    UPDATE_PASS: "updatePass",
+    LINK_MEMBER: "linkMember",
+    GUEST: "guest",
+    DATA: "data",
+    USER_ID: "useId",
+    FIREBASE_TOKEN: "firebasetoken",
+    FLAG: "flag",
+    USERID: "userId",
+    TOKEN: "token",
+    FAVOURITE: "favourite1",
+    PASSWORD: "password",
+}
